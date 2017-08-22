@@ -1,1 +1,24 @@
-new css
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+  font-weight: normal;
+}
+p {
+  font-size: 21px;
+  color: gray;
+}
+.links {
+  color: aquamarine;
+  font-size: 16px;
+}
+#main-banner {
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
+}
+#section-header {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
